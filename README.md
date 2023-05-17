@@ -1,4 +1,4 @@
-<h1>Hi, I'm Stefan! <br/><a href="https://github.com/joshmadakor1">Linux Systems Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">IT Consultant</a>, <a href="https://www.youtube.com/c/joshmadakor">DevOps Enthusiast</a></h1>
+<h1>Hi, I'm Stefan! <br/><a href="https://github.com/joshmadakor1">Linux Systems Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">IT Consultant</a>, <a href="https://www.youtube.com/c/joshmadakor">DevOps Engineer</a></h1>
 
 <h2>👨‍💻 DevOps Projects:</h2>
 
