@@ -3,7 +3,7 @@
 <h2>👨‍💻 DevOps Projects:</h2>
 
 - <b>DevOps Freelancing Guides</b>
-  - [Freelancer DevOps Pipeline Approach](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Freelancer DevOps Pipeline Approach](https://github.com/ultimitech/devops-approach)
 - <b>DevOps Project 1 (React, NodeJS, Git, Docker, Ansible, Docker Swarm and Machine Learning Components)</b>
   - [SDLC](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
